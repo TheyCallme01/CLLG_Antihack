@@ -1,0 +1,13 @@
+WELCOME TO CCLG
+the perfect anti cheat program that makes sure you don't have any cheats installed
+made by TheyCallme01 veteran minecraft player staff of hypixel.net
+----------------------------------------------------------------------------------
+INSTRUCTIONS
+----------------------------------------------------------------------------------
+
+1- Open the .exe program
+2- When it checks a folder it will stop until you give it access into the next one so click anything to continue when needed
+3- Once the program closes you can go to your Documents folder and you'll see a folder with the logs/results of the check
+4- Read them with your code viewer of preference like VisualStudioCode or Notepad++
+5- You've finished
+----------------------------------------------------------------------------------
